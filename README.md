@@ -1,5 +1,7 @@
 # Liri
-	Have you ever wonder why there isn't a search engine for searching concerts of an artist, searching the artist's spotify songs, and searching informations about movies?
+	Have you ever wonder why there isn't a search engine for searching concerts of your favorite artist, 
+	searching your favorite artist's spotify songs, 
+	and searching for informations about movies?
 	Well search no further, because Liri is the search engine for you!
 
 # Liri uses multiple search functions! 
